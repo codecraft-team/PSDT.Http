@@ -1,6 +1,6 @@
 # PSDT.Http
 
-[![Build status](https://ci.appveyor.com/api/projects/status/q5bgd7bhfel66bl4/branch/master?svg=true&passingText=Build%20Passing&failingText=Build%20Failing&pendingText=Build%20Pending)](https://ci.appveyor.com/project/TauriCode/PSDT-Http)
+[![Build status](https://ci.appveyor.com/api/projects/status/520p7cjxnt4eue59/branch/master?svg=true&passingText=Build%20Passing&failingText=Build%20Failing&pendingText=Build%20Pending)](https://ci.appveyor.com/project/codecraftteam/PSDT-Http)
 
 Encapsulates netsh http command line. This is helpful when creating services and one do not want to start e.g. Visual Studio with elevated priviledges.
 For more information see https://msdn.microsoft.com/en-us/library/ms733768.aspx.
